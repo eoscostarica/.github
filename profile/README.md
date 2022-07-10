@@ -1,6 +1,6 @@
 <span align="center">
 
-<a href="https://eoscostarica.io"><img width="400" alt="image" src="https://raw.githubusercontent.com/edenia/.github/master/.github/workflows/images/eoscostarica-logo-black.png"></img></a>
+<a href="https://eoscostarica.io"><img width="400" alt="image" src="https://raw.githubusercontent.com/eoscostarica/.github/master/.github/workflows/images/eoscostarica-logo-black.png"></img></a>
 
 [![Twitter](https://img.shields.io/twitter/follow/EOSCostaRica?style=for-the-badge)](https://twitter.com/EdeniaWeb3)
 ![Discord](https://img.shields.io/discord/946500573677625344?color=black&label=discord&logo=discord&logoColor=white&style=for-the-badge)
