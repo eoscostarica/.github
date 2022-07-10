@@ -7,6 +7,6 @@
 
 EOS Costa Rica is an independently-owned, self-funded, bare-metal Genesis block producer that provides stable and secure infrastructure for the EOS mainnet. We support open source software for our community while offering enterprise solutions and custom smart contract development for our clients.
 
-![Metrics](/profile/metrics.svg)
+<!-- ![Metrics](/profile/metrics.svg) -->
 
 </span>
